@@ -14,7 +14,7 @@ Business Problem
 
 Data Availability
 
-- The data set for the analysis comprises of three tables
+The data set for the analysis comprises of three tables
 
 - Customer: Customer Demographics
 - Transactions: Customer Transaction Details
